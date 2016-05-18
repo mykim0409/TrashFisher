@@ -1,0 +1,17 @@
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/yunjisung/New Unity Project/obj/Debug/Assembly-CSharp.dll
+/Users/yunjisung/New Unity Project/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/UnityEngine.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/UnityEditor.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yunjisung/New Unity Project/Temp/bin/Debug/Mono.Cecil.Mdb.dll
